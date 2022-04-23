@@ -1,0 +1,22 @@
+#sayfamap {
+    display: inline-block;
+    border-color:rebeccapurple;
+    border-style: inset;
+    border-width:thick;
+    border-radius: 7px;
+    margin: 50px;
+    position: relative;
+    left: 320px;
+    right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+#formkismi
+{
+    text-align:right;
+    letter-spacing: 0.5px;
+
+}
